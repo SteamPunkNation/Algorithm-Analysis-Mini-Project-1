@@ -14,3 +14,6 @@ One of its main goals is to get a more accurate sense of the pollution levels in
 Thus, the town subcontracts a data collection campaign to a new startup company in Lakeland. 
 The company's name is (Algorithm and design class). 
 They specialize in profitable high-tech projects with a focus on algorithm design.
+
+# Final Output
+![image](https://user-images.githubusercontent.com/23602136/225463282-6cecd3ad-25c5-4932-a62c-5280a8838b24.png)
